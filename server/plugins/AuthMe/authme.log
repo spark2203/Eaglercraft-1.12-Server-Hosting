@@ -1937,3 +1937,215 @@
 [04-22 21:42:05]: [FINE] The user leif_ has 21 accounts:
 [04-22 21:42:05]: [FINE] §7jamar_higgs, §aCobalt§7, paxton, yeeryee1142_, §askibidi_toilet§7, §aleif_§7, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150.
 [04-22 21:42:05]: [FINE] leif_ logged in 0:0:0:0:0:0:0:1%0
+[09-11 17:57:26]: [INFO] SQLite Setup finished
+[09-11 17:57:27]: [INFO] No supported permissions system found! Permissions are disabled!
+[09-11 17:57:27]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[09-11 17:57:27]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-11 17:57:28]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[09-11 17:57:28]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[09-11 17:57:28]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[09-11 17:57:28]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[09-11 17:57:28]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(Unknown Source)
+	at java.base/java.io.RandomAccessFile.<init>(Unknown Source)
+	at java.base/java.io.RandomAccessFile.<init>(Unknown Source)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+[09-11 17:59:58]: [FINE] Duzty registered 0:0:0:0:0:0:0:1%0
+[09-11 17:59:58]: [FINE] The user Duzty has 22 accounts:
+[09-11 17:59:58]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7.
+[09-11 17:59:58]: [FINE] Duzty logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:01:04]: [FINE] pissmanthethird registered 0:0:0:0:0:0:0:1%0
+[09-11 18:01:04]: [FINE] The user pissmanthethird has 23 accounts:
+[09-11 18:01:04]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, §apissmanthethird§7.
+[09-11 18:01:04]: [FINE] pissmanthethird logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:01:41]: [FINE] acie registered 0:0:0:0:0:0:0:1%0
+[09-11 18:01:41]: [FINE] The user acie has 24 accounts:
+[09-11 18:01:41]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, §apissmanthethird§7, §aacie§7.
+[09-11 18:01:41]: [FINE] acie logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:02:15]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-11 18:02:35]: [INFO] SQLite Setup finished
+[09-11 18:02:35]: [INFO] No supported permissions system found! Permissions are disabled!
+[09-11 18:02:35]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[09-11 18:02:36]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-11 18:02:38]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[09-11 18:02:38]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[09-11 18:02:38]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[09-11 18:02:38]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[09-11 18:02:38]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(Unknown Source)
+	at java.base/java.io.RandomAccessFile.<init>(Unknown Source)
+	at java.base/java.io.RandomAccessFile.<init>(Unknown Source)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+[09-11 18:02:48]: [FINE] The user Duzty has 24 accounts:
+[09-11 18:02:48]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, §apissmanthethird§7, acie.
+[09-11 18:02:48]: [FINE] Duzty logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:03:00]: [FINE] The user pissmanthethird has 24 accounts:
+[09-11 18:03:00]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, §apissmanthethird§7, acie.
+[09-11 18:03:00]: [FINE] pissmanthethird logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:04:25]: [FINE] ozzy_mexican registered 0:0:0:0:0:0:0:1%0
+[09-11 18:04:25]: [FINE] The user ozzy_mexican has 25 accounts:
+[09-11 18:04:25]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, §apissmanthethird§7, acie, §aozzy_mexican§7.
+[09-11 18:04:25]: [FINE] ozzy_mexican logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:06:02]: [FINE] The user acie has 25 accounts:
+[09-11 18:06:02]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, §apissmanthethird§7, §aacie§7, §aozzy_mexican§7.
+[09-11 18:06:02]: [FINE] acie logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:08:54]: [FINE] aj_ registered 0:0:0:0:0:0:0:1%0
+[09-11 18:08:54]: [FINE] The user aj_ has 26 accounts:
+[09-11 18:08:54]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, §apissmanthethird§7, §aacie§7, §aozzy_mexican§7, §aaj_§7.
+[09-11 18:08:54]: [FINE] aj_ logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:09:13]: [FINE] The user aj_ has 26 accounts:
+[09-11 18:09:13]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, §apissmanthethird§7, §aacie§7, §aozzy_mexican§7, §aaj_§7.
+[09-11 18:09:13]: [FINE] aj_ logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:11:51]: [FINE] The user pissmanthethird has 26 accounts:
+[09-11 18:11:51]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, §apissmanthethird§7, §aacie§7, §aozzy_mexican§7, §aaj_§7.
+[09-11 18:11:51]: [FINE] pissmanthethird logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:12:37]: [FINE] The user pissmanthethird has 26 accounts:
+[09-11 18:12:37]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, §apissmanthethird§7, §aacie§7, §aozzy_mexican§7, §aaj_§7.
+[09-11 18:12:37]: [FINE] pissmanthethird logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:15:01]: [FINE] The user pissmanthethird has 26 accounts:
+[09-11 18:15:01]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, §apissmanthethird§7, §aacie§7, §aozzy_mexican§7, §aaj_§7.
+[09-11 18:15:02]: [FINE] pissmanthethird logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:17:26]: [FINE] The user Duzty has 26 accounts:
+[09-11 18:17:26]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, pissmanthethird, §aacie§7, §aozzy_mexican§7, aj_.
+[09-11 18:17:26]: [FINE] Duzty logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:18:50]: [FINE] The user acie has 26 accounts:
+[09-11 18:18:50]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, pissmanthethird, §aacie§7, ozzy_mexican, aj_.
+[09-11 18:18:50]: [FINE] acie logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:19:15]: [FINE] The user pissmanthethird has 26 accounts:
+[09-11 18:19:15]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, duzty, §apissmanthethird§7, §aacie§7, §aozzy_mexican§7, aj_.
+[09-11 18:19:15]: [FINE] pissmanthethird logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:23:44]: [FINE] The user ozzy_mexican has 26 accounts:
+[09-11 18:23:44]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, duzty, pissmanthethird, acie, §aozzy_mexican§7, aj_.
+[09-11 18:23:44]: [FINE] ozzy_mexican logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:24:47]: [FINE] The user acie has 26 accounts:
+[09-11 18:24:47]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, duzty, pissmanthethird, §aacie§7, §aozzy_mexican§7, aj_.
+[09-11 18:24:47]: [FINE] acie logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:25:40]: [FINE] The user pissmanthethird has 26 accounts:
+[09-11 18:25:40]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, duzty, §apissmanthethird§7, §aacie§7, §aozzy_mexican§7, aj_.
+[09-11 18:25:40]: [FINE] pissmanthethird logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:26:08]: [FINE] The user aj_ has 26 accounts:
+[09-11 18:26:08]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, duzty, §apissmanthethird§7, §aacie§7, §aozzy_mexican§7, §aaj_§7.
+[09-11 18:26:08]: [FINE] aj_ logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:27:03]: [FINE] The user Duzty has 26 accounts:
+[09-11 18:27:03]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, §apissmanthethird§7, §aacie§7, §aozzy_mexican§7, §aaj_§7.
+[09-11 18:27:03]: [FINE] Duzty logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:30:49]: [FINE] As43 registered 0:0:0:0:0:0:0:1%0
+[09-11 18:30:49]: [FINE] The user As43 has 27 accounts:
+[09-11 18:30:49]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, §apissmanthethird§7, §aacie§7, §aozzy_mexican§7, §aaj_§7, §aAs43§7.
+[09-11 18:30:49]: [FINE] As43 logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:31:57]: [FINE] The user As43 has 27 accounts:
+[09-11 18:31:57]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, §apissmanthethird§7, §aacie§7, §aozzy_mexican§7, §aaj_§7, §aAs43§7.
+[09-11 18:31:57]: [FINE] As43 logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:36:04]: [FINE] The user aj_ has 27 accounts:
+[09-11 18:36:04]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, §apissmanthethird§7, §aacie§7, §aozzy_mexican§7, §aaj_§7, §aAs43§7.
+[09-11 18:36:04]: [FINE] aj_ logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:37:11]: [FINE] The user pissmanthethird has 27 accounts:
+[09-11 18:37:11]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, §apissmanthethird§7, §aacie§7, §aozzy_mexican§7, §aaj_§7, as43.
+[09-11 18:37:11]: [FINE] pissmanthethird logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:37:42]: [FINE] The user As43 has 27 accounts:
+[09-11 18:37:42]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, §apissmanthethird§7, §aacie§7, §aozzy_mexican§7, §aaj_§7, §aAs43§7.
+[09-11 18:37:42]: [FINE] As43 logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:44:33]: [FINE] The user pissmanthethird has 27 accounts:
+[09-11 18:44:33]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, §apissmanthethird§7, §aacie§7, §aozzy_mexican§7, §aaj_§7, §aAs43§7.
+[09-11 18:44:33]: [FINE] pissmanthethird logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:53:02]: [FINE] The user pissmanthethird has 27 accounts:
+[09-11 18:53:02]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, §apissmanthethird§7, §aacie§7, §aozzy_mexican§7, §aaj_§7, §aAs43§7.
+[09-11 18:53:02]: [FINE] pissmanthethird logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:58:53]: [FINE] The user ozzy_mexican has 27 accounts:
+[09-11 18:58:53]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, duzty, §apissmanthethird§7, acie, §aozzy_mexican§7, aj_, as43.
+[09-11 18:58:53]: [FINE] ozzy_mexican logged in 0:0:0:0:0:0:0:1%0
+[09-11 18:58:58]: [FINE] The user pissmanthethird has 27 accounts:
+[09-11 18:58:58]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, duzty, §apissmanthethird§7, acie, §aozzy_mexican§7, aj_, as43.
+[09-11 18:58:58]: [FINE] pissmanthethird logged in 0:0:0:0:0:0:0:1%0
+[09-11 19:02:11]: [FINE] The user ozzy_mexican has 27 accounts:
+[09-11 19:02:11]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, duzty, pissmanthethird, acie, §aozzy_mexican§7, aj_, as43.
+[09-11 19:02:11]: [FINE] ozzy_mexican logged in 0:0:0:0:0:0:0:1%0
+[09-11 19:02:40]: [FINE] The user acie has 27 accounts:
+[09-11 19:02:40]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, duzty, pissmanthethird, §aacie§7, §aozzy_mexican§7, aj_, as43.
+[09-11 19:02:40]: [FINE] acie logged in 0:0:0:0:0:0:0:1%0
+[09-11 19:05:16]: [FINE] The user pissmanthethird has 27 accounts:
+[09-11 19:05:16]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, duzty, §apissmanthethird§7, §aacie§7, §aozzy_mexican§7, aj_, as43.
+[09-11 19:05:16]: [FINE] pissmanthethird logged in 0:0:0:0:0:0:0:1%0
+[09-11 19:10:47]: [FINE] The user aj_ has 27 accounts:
+[09-11 19:10:47]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, duzty, pissmanthethird, acie, ozzy_mexican, §aaj_§7, as43.
+[09-11 19:10:47]: [FINE] aj_ logged in 0:0:0:0:0:0:0:1%0
+[09-11 19:38:03]: [FINE] The user acie has 27 accounts:
+[09-11 19:38:03]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, duzty, pissmanthethird, §aacie§7, ozzy_mexican, aj_, as43.
+[09-11 19:38:03]: [FINE] acie logged in 0:0:0:0:0:0:0:1%0
+[09-11 19:58:16]: [FINE] The user acie has 27 accounts:
+[09-11 19:58:16]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, duzty, pissmanthethird, §aacie§7, ozzy_mexican, aj_, as43.
+[09-11 19:58:16]: [FINE] acie logged in 0:0:0:0:0:0:0:1%0
+[09-11 20:10:13]: [FINE] The user acie has 27 accounts:
+[09-11 20:10:13]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, duzty, pissmanthethird, §aacie§7, ozzy_mexican, aj_, as43.
+[09-11 20:10:13]: [FINE] acie logged in 0:0:0:0:0:0:0:1%0
+[09-11 20:17:34]: [FINE] The user acie has 27 accounts:
+[09-11 20:17:34]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, duzty, pissmanthethird, §aacie§7, ozzy_mexican, aj_, as43.
+[09-11 20:17:34]: [FINE] acie logged in 0:0:0:0:0:0:0:1%0
+[09-11 20:34:49]: [FINE] The user ozzy_mexican has 27 accounts:
+[09-11 20:34:49]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, duzty, pissmanthethird, acie, §aozzy_mexican§7, aj_, as43.
+[09-11 20:34:49]: [FINE] ozzy_mexican logged in 0:0:0:0:0:0:0:1%0
+[09-11 20:47:35]: [FINE] The user pissmanthethird has 27 accounts:
+[09-11 20:47:35]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, duzty, §apissmanthethird§7, acie, ozzy_mexican, aj_, as43.
+[09-11 20:47:35]: [FINE] pissmanthethird logged in 0:0:0:0:0:0:0:1%0
+[09-11 20:49:44]: [FINE] JJ_ registered 0:0:0:0:0:0:0:1%0
+[09-11 20:49:44]: [FINE] The user JJ_ has 28 accounts:
+[09-11 20:49:44]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, duzty, §apissmanthethird§7, acie, ozzy_mexican, aj_, as43, §aJJ_§7.
+[09-11 20:49:44]: [FINE] JJ_ logged in 0:0:0:0:0:0:0:1%0
+[09-11 21:05:35]: [FINE] The user JJ_ has 28 accounts:
+[09-11 21:05:35]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, duzty, pissmanthethird, acie, ozzy_mexican, aj_, as43, §aJJ_§7.
+[09-11 21:05:35]: [FINE] JJ_ logged in 0:0:0:0:0:0:0:1%0
+[09-11 21:24:16]: [FINE] The user acie has 28 accounts:
+[09-11 21:24:16]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, duzty, pissmanthethird, §aacie§7, ozzy_mexican, aj_, as43, jj_.
+[09-11 21:24:16]: [FINE] acie logged in 0:0:0:0:0:0:0:1%0
+[09-11 21:35:31]: [FINE] The user Duzty has 28 accounts:
+[09-11 21:35:31]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, pissmanthethird, §aacie§7, ozzy_mexican, aj_, as43, jj_.
+[09-11 21:35:31]: [FINE] Duzty logged in 0:0:0:0:0:0:0:1%0
+[09-11 21:54:34]: [FINE] The user acie has 28 accounts:
+[09-11 21:54:34]: [FINE] §7jamar_higgs, cobalt, paxton, yeeryee1142_, skibidi_toilet, leif_, cullen, heny, bodeman115, masonclaus, nate_higgers69_, dying_fetus_porn, d_piddy, nate_higgers, fingermesideways, bodeman115_v2, dodecahedron, dihcrackhw, copper_block, vivy, bodeman1150, §aDuzty§7, pissmanthethird, §aacie§7, ozzy_mexican, aj_, as43, jj_.
+[09-11 21:54:34]: [FINE] acie logged in 0:0:0:0:0:0:0:1%0
+[09-14 16:15:55]: [INFO] SQLite Setup finished
+[09-14 16:15:55]: [INFO] No supported permissions system found! Permissions are disabled!
+[09-14 16:15:55]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[09-14 16:15:56]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-14 16:15:57]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[09-14 16:15:57]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[09-14 16:15:57]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[09-14 16:15:57]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[09-14 16:15:57]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(Unknown Source)
+	at java.base/java.io.RandomAccessFile.<init>(Unknown Source)
+	at java.base/java.io.RandomAccessFile.<init>(Unknown Source)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+

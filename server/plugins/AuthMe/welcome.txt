@@ -1,3 +1,0 @@
-Welcome {PLAYER} on {SERVER} server
-
-This server is Hosted by BODEMAN115
